@@ -1,0 +1,8 @@
+/*公共样式*/
+*{margin:0;padding:0;}
+/*去掉下划线*/
+a:hover{text-decoration:none;}
+/*字体*/
+.my_font_small{font-size:1rem;}
+.my_font_middle{font-size:1.1rem;}
+
